@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Links Browser
+GenericName=Links Browser
+Comment=Links is a text browser for the World Wide Web. 
+Exec=AppRun %F
+Terminal=true
+X-MultipleArgs=false
+Type=Application
+Icon=links
+Categories=Network;WebBrowser;
+StartupWMClass=links
+StartupNotify=true
