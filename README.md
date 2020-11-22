@@ -1,1 +1,1 @@
-# Lynx.AppImage
+# Links.AppImage
