@@ -35,7 +35,7 @@ cd ${OWD}
 
 if [ -z "$@" ]
     then
-        exec ${APPDIR}/bin/links2 "https://apprepo.de"
+        exec ${APPDIR}/bin/links2 "http://links.twibright.com/"
     else
         exec exec ${APPDIR}/bin/links2 "$@"
     fi
